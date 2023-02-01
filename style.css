@@ -1,0 +1,11 @@
+*{
+    font-family: "Audiowide", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    background-color: #f32d41;
+    border: none;
+}
